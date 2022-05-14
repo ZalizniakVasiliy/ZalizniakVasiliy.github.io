@@ -39,16 +39,16 @@ body {
     height: 100vh;
     display: grid;
     grid-template-columns: auto 2fr;
-    /*grid-template-rows: 1fr;*/
-    /*position: relative;*/
+    grid-template-rows: 1fr;
+    position: relative;
 }
 
-/*.row {*/
-/*  display: flex;*/
-/*}*/
+.row {
+    display: flex;
+}
 
 .content {
-    /*height: 100%;*/
+    height: 100%;
     overflow-y: auto;
     scroll-behavior: smooth;
 }
