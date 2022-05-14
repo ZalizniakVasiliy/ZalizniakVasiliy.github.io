@@ -8,9 +8,9 @@
     background-position: center;
 }
 
-/*.hero .container {*/
-/*    min-height: 100%;*/
-/*}*/
+.hero .container {
+    min-height: 100%;
+}
 
 .main-title {
     margin: 0;
